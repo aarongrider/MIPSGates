@@ -7,7 +7,7 @@
 
 testA: 			.word 0xDEADBEEF
 testB:			.word 0xBEEBEAD0
-negativeOne:	.word -1
+negativeOne:		.word -1
 
 ###################### CODE SECTION ##############################			
 	.text		# marks the beginning of the code portion
